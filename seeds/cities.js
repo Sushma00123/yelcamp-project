@@ -8998,5 +8998,5 @@ module.exports = [
         population: "36877",
         rank: "1000",
         state: "Florida",
-    },
+    }
 ];
